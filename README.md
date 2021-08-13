@@ -1,4 +1,4 @@
-# Better-Discord-Halloween-Theme-V.1.1
+
 
 This is my Halloween Theme for Better Discord! 
 
